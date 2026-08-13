@@ -1,6 +1,6 @@
 # Library Management System
 
-A command-line library management system built in Python as part of a structured Python fundamentals roadmap (Project 2 of 4).
+A command-line library management system built in Python, featuring object-oriented design, dictionary-based storage, and real-time overdue fine calculation.
 
 ## Features
 
